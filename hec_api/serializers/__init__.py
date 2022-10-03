@@ -1,0 +1,12 @@
+from .familiarSerializer import FamiliarSerializer
+from .userSerializer import UserSerializer
+
+from .medicoSerializer import MedicoSerializer
+
+from .diagnosticoSerializer import DiagnosticoSerializer
+from .enfermeroSerializer import EnfermeroSerializer
+from .pacienteSerializer import PacienteSerializer
+
+from .signosvitalesSerializer import SignosVitalesSerializer
+from .sugerenciascuidadoSerializer import SugerenciasCuidadoSerializer
+from .diagnosticoSerializer import DiagnosticoSerializer
